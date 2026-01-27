@@ -1,3 +1,2 @@
 ﻿User-agent: *
 Disallow: /*?*
-Sitemap: https://roliosa.github.io/sitemap.xml
